@@ -1,7 +1,8 @@
 # Designs
-This repository aims to allow anyone to change, use, or contribute to the designs within.
+The purpose of this repository is to share designs with colleagues and friends. 
+You are encouraged to contribute to, change, or use the designs within.
 
-For any requests please create an issue and hopefully the community can help you out.
+If you have any requests for a logo, wallpaper, spinner, etc then please create an issue and hopefully the community can help you out.
 
 # Spinners
 Some spinners are made in Adobe After Effects and exported to a JSON file with BodyMovin. They are intended to be used with Lottie.
