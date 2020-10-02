@@ -1,6 +1,6 @@
-# Designs
+# Designs Info
 The purpose of this repository is to share designs with colleagues and friends. 
-You are encouraged to contribute to, change, or use the designs within.
+You are encouraged to contribute too, change, or use the designs within.
 
 If you have any requests for a logo, wallpaper, spinner, etc then please create an issue and hopefully the community can help you out.
 
